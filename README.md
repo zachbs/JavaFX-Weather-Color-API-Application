@@ -66,14 +66,4 @@ Alternatively, you can import the project as a Maven project into your favorite 
 You can then run the application by running the main method in the cs1302.api.ApiDriver class.
 
 
-## Technologies Used
-
-Java 17
-
-JavaFX (for the graphical user interface)
-
-Apache Maven (for project build and dependency management)
-
-Gson (for parsing JSON data)
-
 Java HttpClient (for making API requests)
