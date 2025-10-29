@@ -38,8 +38,9 @@ It serves as a practical demonstration of software design patterns, modular Java
 
 ### 1. Clone the Repository  
 
-```bash
 This is a Maven project. You must have Java 17+ and Apache Maven installed.
+
+```bash
 git clone https://github.com/zachbs/JavaFX-Weather-Color-API-Application.git
 ```
 
