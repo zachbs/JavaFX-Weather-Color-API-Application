@@ -22,8 +22,9 @@ This is a Maven project. You must have Java 17+ and Apache Maven installed.
 
 Clone the repository:
 
-git clone [your-new-github-repo-url]
-cd [your-project-folder]
+git clone https://github.com/zachbs/JavaFX-Weather-Color-API-Application.git
+
+
 
 
 
@@ -37,6 +38,12 @@ Run the application:
 
 mvn exec:java
 
+
+From an IDE
+
+Alternatively, you can import the project as a Maven project into your favorite Java IDE (like VS Code or IntelliJ). The IDE will automatically detect the pom.xml and download the required libraries.
+
+You can then run the application by running the main method in the cs1302.api.ApiDriver class.
 
 
 Technologies Used
